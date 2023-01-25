@@ -1,1 +1,2 @@
 # Oracle
+I learned Docker Desktop from the link you gave and also somewhat from youtube. I created my project image and containers there. My project was on covid tracker so I learned how to use DockerAPI in a perfect manner, since I used fetchAPI for that. I faced several problems in making the file, one was to put my data into the Docker and other was it was restarting time by time. Overall it was a great experience using Docker for the first time, I really enjoyed working on Docker Desktop.
